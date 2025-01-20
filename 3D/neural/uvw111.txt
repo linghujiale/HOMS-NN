@@ -1,0 +1,26 @@
+E:\pycharm\project6\code\3D\neural
+E:/pycharm/project6/code/3D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+max data:  0.00848  max data:  -0.00162
+max data:  0.00294  max data:  -0.00293
+max data:  0.00293  max data:  -0.00294
+C1:  [[36000. 12000. 12000.     0.     0.     0.]
+ [12000. 36000. 12000.     0.     0.     0.]
+ [12000. 12000. 36000.     0.     0.     0.]
+ [   -0.    -0.    -0. 12000.    -0.    -0.]
+ [    0.     0.     0.     0. 12000.     0.]
+ [    0.     0.     0.     0.     0. 12000.]]
+C2:  [[720. 240. 240.   0.   0.   0.]
+ [240. 720. 240.   0.   0.   0.]
+ [240. 240. 720.   0.   0.   0.]
+ [ -0.  -0.  -0. 240.  -0.  -0.]
+ [  0.   0.   0.   0. 240.   0.]
+ [  0.   0.   0.   0.   0. 240.]]
+load from ckpt!
+C01111:  tensor(29470.5312, device='cuda:0', grad_fn=<MeanBackward0>)

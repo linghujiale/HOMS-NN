@@ -1,0 +1,17 @@
+E:\pycharm\project6\code\2D\neural
+E:/pycharm/project6/code/2D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+C1:  [[32000.  8000.     0.]
+ [ 8000. 32000.     0.]
+ [    0.     0. 12000.]]
+C2:  [[640. 160.   0.]
+ [160. 640.   0.]
+ [  0.   0. 240.]]
+load from ckpt!
+C01111:  tensor(3711.5884, device='cuda:0', grad_fn=<MeanBackward0>)

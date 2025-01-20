@@ -1,0 +1,31 @@
+True
+True
+True
+drrnn(
+  (phi): Tanh()
+  (stack): ModuleList(
+    (0): Linear(in_features=2, out_features=30, bias=True)
+    (1): Block(
+      (L1): Linear(in_features=30, out_features=30, bias=True)
+      (L2): Linear(in_features=30, out_features=30, bias=True)
+      (phi): Tanh()
+    )
+    (2): Block(
+      (L1): Linear(in_features=30, out_features=30, bias=True)
+      (L2): Linear(in_features=30, out_features=30, bias=True)
+      (phi): Tanh()
+    )
+    (3): Block(
+      (L1): Linear(in_features=30, out_features=30, bias=True)
+      (L2): Linear(in_features=30, out_features=30, bias=True)
+      (phi): Tanh()
+    )
+    (4): Block(
+      (L1): Linear(in_features=30, out_features=30, bias=True)
+      (L2): Linear(in_features=30, out_features=30, bias=True)
+      (phi): Tanh()
+    )
+    (5): Linear(in_features=30, out_features=1, bias=True)
+  )
+)
+epoch: 0 loss: 1.2456945180892944 loss_r: 1.2456945180892944 lr 0.0005 NL2Rerror:  1.0782870819149617

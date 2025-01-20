@@ -1,0 +1,63 @@
+E:\pycharm\project6\code\2D\neural
+E:/pycharm/project6/code/2D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+max data:  0.00005  max data:  -0.00094
+max data:  0.00002  max data:  -0.00002
+C1:  [[320.  80.   0.]
+ [ 80. 320.   0.]
+ [  0.   0. 120.]]
+C2:  [[6.4 1.6 0. ]
+ [1.6 6.4 0. ]
+ [0.  0.  2.4]]
+beta11:  tensor(27.7521, device='cuda:0', grad_fn=<MeanBackward0>)
+E:\pycharm\project6\code\2D\neural
+E:/pycharm/project6/code/2D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+E:\pycharm\project6\code\2D\neural
+E:/pycharm/project6/code/2D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+max data:  0.00005  max data:  -0.00094
+max data:  0.00002  max data:  -0.00002
+C1:  [[32000.  8000.     0.]
+ [ 8000. 32000.     0.]
+ [    0.     0. 12000.]]
+C2:  [[640. 160.   0.]
+ [160. 640.   0.]
+ [  0.   0. 240.]]
+beta11:  tensor(-923.5654, device='cuda:0', grad_fn=<MeanBackward0>)
+E:\pycharm\project6\code\2D\neural
+E:/pycharm/project6/code/2D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+max data:  0.00005  max data:  -0.00094
+max data:  0.00002  max data:  -0.00002
+C1:  [[32000.  8000.     0.]
+ [ 8000. 32000.     0.]
+ [    0.     0. 12000.]]
+C2:  [[640. 160.   0.]
+ [160. 640.   0.]
+ [  0.   0. 240.]]
+beta11:  tensor(27.7521, device='cuda:0', grad_fn=<MeanBackward0>)

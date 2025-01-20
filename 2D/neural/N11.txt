@@ -1,0 +1,2 @@
+True
+a0:  tensor(57.6503, device='cuda:0', grad_fn=<MeanBackward0>)

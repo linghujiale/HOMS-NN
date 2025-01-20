@@ -1,0 +1,20 @@
+E:\pycharm\project6\code\3D\neural
+E:/pycharm/project6/code/3D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+E:\pycharm\project6\code\3D\neural
+E:/pycharm/project6/code/3D/neural
+------------------
+this is the 5 times
+this is the 6 times
+this is the 7 times
+this is the 8 times
+this is the 9 times
+True
+max data:  tensor(0.0006, device='cuda:0', dtype=torch.float64)
+a0:  tensor(84.8267, device='cuda:0', grad_fn=<MeanBackward0>)
